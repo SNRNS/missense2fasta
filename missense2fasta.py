@@ -3,7 +3,6 @@
 #==============================================================================
 
 # Import packages
-
 from __future__ import division
 from pandas import read_csv
 from Bio import SeqIO
